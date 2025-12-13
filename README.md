@@ -3,7 +3,7 @@ A Number Guessing Game, where system select a number and the user has to guess t
 Guess the number in 3 or less than 3 Attempts,
 Beat your best every time.
 
-#Features:
+#Features: 
 Try different levels.
 Guess upto 500 numbers.
 
