@@ -50,6 +50,7 @@ public class NumberGuessingGame {
                 }
             }
         }
+        break;
         case 2:
         int sec = rand.nextInt(100);
         int gue = 0;
@@ -84,6 +85,7 @@ public class NumberGuessingGame {
                 }
             }
         }
+        break;
         case 3:
         int s = rand.nextInt(500);
         int gu = 0;
@@ -118,8 +120,10 @@ public class NumberGuessingGame {
                 }
             }
         }
+        break;
         }
         sc.close();
 
     }
 }
+
